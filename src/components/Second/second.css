@@ -1,0 +1,95 @@
+.second {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: 88vh;
+    position: relative;
+}
+.bg-image {
+    background-image: url(https://www.behealthpr.com/wp-content/uploads/2021/05/pulsaciones.png);
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    width: 60%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-text {
+    position: absolute;
+    top: 80%;
+    left: 0;
+    z-index: 2;
+    width: 57%;
+}
+.text-red {
+    width: 100%;
+    background: #cf0000;
+    text-align: center;
+    color: white;
+    padding: 11px 0;
+    font-size: 45px;
+    border-radius: 0 50px 50px 0;
+}
+.button_1_next {
+    position: absolute;
+    right: 81px;
+    bottom: 139px;
+    background-color: #cf0000;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 34px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button_1_prev {
+    position: absolute;
+    right: 192px;
+    bottom: 139px;
+    background-color: #29235c;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 34px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+}
+@media only screen and (max-width: 1023px) {
+    .bg-image {
+        width: 100%;
+    }
+    .bg-text {
+        width: 100%;
+        top: 90%;
+    }
+    .text-red {
+        width: 80%;
+        font-weight: 500;
+        font-size: 20px;
+        background: #711e40;
+        background: -moz-linear-gradient(left, #711e40 0%, #29235c 100%);
+        background: -webkit-linear-gradient(left, #711e40 0%, #29235c 100%);
+        background: linear-gradient(
+            to right,
+            #711e40 0%,
+            #29235c 100%
+        );
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#711e40', endColorstr='#29235c',GradientType=1 );
+    }
+    .button_1_prev{
+        bottom: -27px;
+        left: 16px;
+        width: 45%;
+        height: 50px;
+    }
+    .button_1_next{
+        bottom: -27px;
+        right: 16px;
+        width: 45%;
+        height: 50px;
+    }
+}

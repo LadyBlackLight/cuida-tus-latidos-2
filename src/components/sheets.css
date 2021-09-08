@@ -1,0 +1,33 @@
+.container {
+  max-width: 1280px;
+  flex: 1;
+  margin: 0 auto;
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  flex-wrap: inherit;
+}
+.borderBg {
+  display: none;
+}
+.slick-arrow{
+  display: none !important;
+}
+@media only screen and (max-width: 1023px) {
+  .container {
+    padding: 0 1em;
+  }
+  .borderBg {
+    display: block;
+    height: 30px;
+    background: #bd1622;
+    background: -moz-linear-gradient(left, #bd1622 0%, #29235c 100%);
+    background: -webkit-linear-gradient(left, #bd1622 0%, #29235c 100%);
+    background: linear-gradient(
+      to right,
+      #bd1622 0%,
+      #29235c 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd1622', endColorstr='#29235c',GradientType=1 );
+  }
+}

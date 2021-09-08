@@ -1,0 +1,81 @@
+.fourth{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    height: 88vh;
+    position: relative;
+}
+.text-green{
+    width: 84%;
+    background: #006c37;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    padding: 4px 0;
+    font-size: 45px;
+    border-radius: 0 50px 50px 0;
+}
+.button_3_next {
+    position: absolute;
+    right: 81px;
+    bottom: 90px;
+    background-color: #cf0000;
+    color: white;
+    border: none;
+    width: 135px;
+    height: 34px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 0;
+}
+.button_3_next::before{
+    content: 'Iniciar conteo';
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+}
+.button_3_prev {
+    position: absolute;
+    right: 224px;
+    bottom: 90px;
+    background-color: #29235c;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 34px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+}
+@media only screen and (max-width: 1023px) {
+    .fourth {
+        justify-content: center;
+        width: 100%;
+    }
+    .fourth img {
+        width: 90%;
+    }
+    .text-green {
+        width: 80%;
+        margin-top: 27px;
+        margin-right: 74px;
+        font-weight: 500;
+        height: 47px;
+        line-height: 35px;
+        font-size: 20px;
+    }
+    .button_3_prev {
+        bottom: -27px;
+        left: 16px;
+        width: 45%;
+        height: 50px;
+    }
+    .button_3_next {
+        bottom: -27px;
+        right: 16px;
+        width: 45%;
+        height: 50px;
+    }
+}
