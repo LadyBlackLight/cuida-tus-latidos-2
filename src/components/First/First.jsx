@@ -17,7 +17,7 @@ export default function First() {
                     <img src={logo} className="logo" alt="Logo Cuida tus Latidos" />
                 </div>
             </div>
-            <div className="mobile">
+            <div className="mobile-first">
                 <img src={logomobile} alt="Logo Cuida tus Latidos"/>
                 <h1>¡Escucha tu <span>corazón!</span></h1>
                 <img src={manomobile} className="manoMobile" alt="Mano"/>

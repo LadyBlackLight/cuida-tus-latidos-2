@@ -17,10 +17,10 @@ export default function Nine() {
                     <a className="download" href="#" target="_blank">¡Conoce nuestra guía, dando click aquí!</a>
                 </div>
             </div>
-            <div className="mobile">
+            <div className="mobile-nine">
                 <img src={logomobile} alt="Logo Cuida tus Latidos" />
                 <img src={manomobile} className="manoMobile" alt="Mano" />
-                <a className="download" href="#" target="_blank">¡Conoce nuestra guía, dando click aquí!</a>
+                <a className="download-nine" href="#" target="_blank">¡Conoce nuestra guía, dando click aquí!</a>
             </div>
         </>
     )

@@ -20,7 +20,7 @@
 .eight .mobile {
     display: none;
 }
-.corazon{
+.corazon {
     width: 80%;
 }
 
@@ -68,7 +68,7 @@
         margin: 0 auto;
         display: block;
     }
-    .eight .resultado{
+    .eight .resultado {
         width: 90%;
     }
     .corazon {
@@ -76,15 +76,23 @@
         margin: 0 auto;
     }
     .button_7_prev {
-        bottom: -27px;
+        bottom: 28px;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_7_next {
-        bottom: -27px;
+        bottom: 28px;
         left: 218px;
         width: 45%;
         height: 50px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .corazon {
+        width: 52%;
+    }
+    .button_7_next {
+        left: 196px;
     }
 }

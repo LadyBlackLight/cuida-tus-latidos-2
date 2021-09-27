@@ -64,7 +64,7 @@
     }
     .bg-text {
         width: 100%;
-        top: 90%;
+        top: 82%;
     }
     .text-red {
         width: 80%;
@@ -81,13 +81,13 @@
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#711e40', endColorstr='#29235c',GradientType=1 );
     }
     .button_1_prev{
-        bottom: -27px;
+        bottom: 28px;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_1_next{
-        bottom: -27px;
+        bottom: 28px;
         right: 16px;
         width: 45%;
         height: 50px;

@@ -74,14 +74,22 @@
         margin: 0 auto;
     }
     .button_5_prev {
-        bottom: -27px;
+        bottom: 28px;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_5_next {
-        bottom: -27px;
-        left: 218px;
+        bottom: 28px;
+        left: 213px;
+        width: 45%;
+        height: 50px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .button_5_next {
+        bottom: 28px;
+        left: 193px;
         width: 45%;
         height: 50px;
     }
