@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cuida-tus-latidos-2/static/css/main.ca9e940f.chunk.css",
-    "main.js": "/cuida-tus-latidos-2/static/js/main.d00a753d.chunk.js",
-    "main.js.map": "/cuida-tus-latidos-2/static/js/main.d00a753d.chunk.js.map",
+    "main.css": "/cuida-tus-latidos-2/static/css/main.1f0370e4.chunk.css",
+    "main.js": "/cuida-tus-latidos-2/static/js/main.3b2e2d0f.chunk.js",
+    "main.js.map": "/cuida-tus-latidos-2/static/js/main.3b2e2d0f.chunk.js.map",
     "runtime-main.js": "/cuida-tus-latidos-2/static/js/runtime-main.38e80048.js",
     "runtime-main.js.map": "/cuida-tus-latidos-2/static/js/runtime-main.38e80048.js.map",
     "static/css/2.71310d9f.chunk.css": "/cuida-tus-latidos-2/static/css/2.71310d9f.chunk.css",
@@ -12,12 +12,12 @@
     "static/js/3.e3e8f314.chunk.js.map": "/cuida-tus-latidos-2/static/js/3.e3e8f314.chunk.js.map",
     "index.html": "/cuida-tus-latidos-2/index.html",
     "static/css/2.71310d9f.chunk.css.map": "/cuida-tus-latidos-2/static/css/2.71310d9f.chunk.css.map",
-    "static/css/main.ca9e940f.chunk.css.map": "/cuida-tus-latidos-2/static/css/main.ca9e940f.chunk.css.map",
+    "static/css/main.1f0370e4.chunk.css.map": "/cuida-tus-latidos-2/static/css/main.1f0370e4.chunk.css.map",
     "static/js/2.d5cee39c.chunk.js.LICENSE.txt": "/cuida-tus-latidos-2/static/js/2.d5cee39c.chunk.js.LICENSE.txt",
     "static/media/heart.0fbd50ca.png": "/cuida-tus-latidos-2/static/media/heart.0fbd50ca.png",
     "static/media/iniciar-conteo.0defa623.png": "/cuida-tus-latidos-2/static/media/iniciar-conteo.0defa623.png",
     "static/media/instruccion-1.03317a01.png": "/cuida-tus-latidos-2/static/media/instruccion-1.03317a01.png",
-    "static/media/logo-cuida-tus-latidos.52bf9e94.png": "/cuida-tus-latidos-2/static/media/logo-cuida-tus-latidos.52bf9e94.png",
+    "static/media/logo-cuida-tus-latidos.047bc88f.png": "/cuida-tus-latidos-2/static/media/logo-cuida-tus-latidos.047bc88f.png",
     "static/media/mano-1-inicio.1ffe5ea1.png": "/cuida-tus-latidos-2/static/media/mano-1-inicio.1ffe5ea1.png",
     "static/media/mano-1-mobile.92b0547c.png": "/cuida-tus-latidos-2/static/media/mano-1-mobile.92b0547c.png",
     "static/media/mano.1d963a41.png": "/cuida-tus-latidos-2/static/media/mano.1d963a41.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.38e80048.js",
     "static/css/2.71310d9f.chunk.css",
     "static/js/2.d5cee39c.chunk.js",
-    "static/css/main.ca9e940f.chunk.css",
-    "static/js/main.d00a753d.chunk.js"
+    "static/css/main.1f0370e4.chunk.css",
+    "static/js/main.3b2e2d0f.chunk.js"
   ]
 }
