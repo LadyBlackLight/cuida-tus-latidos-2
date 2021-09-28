@@ -6,7 +6,7 @@
     height: 88vh;
     position: relative;
 }
-.mobile-first{
+.mobile-first {
     display: none;
 }
 .column-image {
@@ -78,7 +78,7 @@
         display: block;
         padding-top: 24px;
         position: relative;
-        height: 90vh;
+        height: 85vh;
     }
     .mobile-first h1 {
         position: absolute;
@@ -90,7 +90,7 @@
         text-align: center;
         color: #29235c;
     }
-    .mobile-first h1 span{
+    .mobile-first h1 span {
         color: #bd1622;
     }
     .mobile-first img {
@@ -130,19 +130,18 @@
     .button_0_next::before {
         font-size: 17px;
     }
-    .manoMobile{
+    .manoMobile {
         position: absolute;
         bottom: 0;
         right: 0;
     }
-    .mobile-firsth1 {
+    .mobile-first h1 {
         left: -12px;
     }
-
 }
 @media only screen and (max-width: 425px) {
     .button_0_next {
-        bottom: 338px;
+        bottom: 61vh;
         width: 342px;
         right: 0;
         border-radius: 30px 0 0 30px;
@@ -150,12 +149,13 @@
     .button_0_next::before {
         font-size: 14px;
     }
-    .manoMobile{
+    .manoMobile {
         bottom: 17px;
         right: 0;
     }
     .mobile-first h1 {
-       right: -12px;
-       left: initial;
+        top: 40vh;
+        right: 0;
+        left: initial;
     }
 }

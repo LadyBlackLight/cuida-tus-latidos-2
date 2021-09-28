@@ -55,6 +55,7 @@
 @media only screen and (max-width: 1023px) {
     .six-container {
         justify-content: center;
+        height: 70vh;
     }
     .six {
         width: 94%;
@@ -74,22 +75,14 @@
         margin: 0 auto;
     }
     .button_5_prev {
-        bottom: 28px;
+        bottom: 12vh;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_5_next {
-        bottom: 28px;
-        left: 213px;
-        width: 45%;
-        height: 50px;
-    }
-}
-@media only screen and (max-width: 375px) {
-    .button_5_next {
-        bottom: 28px;
-        left: 193px;
+        bottom: 12vh;
+        left: 194px;
         width: 45%;
         height: 50px;
     }

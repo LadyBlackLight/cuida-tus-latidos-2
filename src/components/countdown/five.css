@@ -60,6 +60,7 @@
 @media only screen and (max-width: 1023px) {
     .countdown {
         justify-content: center;
+        height: 70vh;
     }
     .five {
         width: 94%;
@@ -70,9 +71,8 @@
         display: none !important;
     }
     .five .mobile {
-        margin: 0 auto;
+        margin: 16px auto;
         height: auto;
-        margin: 0 auto;
         display: block;
     }
     .five p{
@@ -83,13 +83,13 @@
         margin: 0 auto;
     }
     .button_4_prev {
-        bottom: 28px;
+        bottom: 12vh;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_4_next {
-        bottom: 28px;
+        bottom: 12vh;
         right: 16px;
         width: 45%;
         height: 50px;

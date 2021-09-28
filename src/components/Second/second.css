@@ -59,12 +59,15 @@
     cursor: pointer;
 }
 @media only screen and (max-width: 1023px) {
+    .second {
+        height: 85vh;
+    }
     .bg-image {
         width: 100%;
     }
     .bg-text {
         width: 100%;
-        top: 82%;
+        top: 60vh;
     }
     .text-red {
         width: 80%;
@@ -81,13 +84,13 @@
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#711e40', endColorstr='#29235c',GradientType=1 );
     }
     .button_1_prev{
-        bottom: 28px;
+        bottom: 12vh;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_1_next{
-        bottom: 28px;
+        bottom: 12vh;
         right: 16px;
         width: 45%;
         height: 50px;

@@ -51,7 +51,7 @@
     .third {
         justify-content: center;
         width: 100%;
-        height:78vh;
+        height:70vh;
     }
     .third img {
         width: 90%;
@@ -74,13 +74,13 @@
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#711e40', endColorstr='#29235c',GradientType=1 );
     }
     .button_2_prev {
-        bottom: 28px;
+        bottom: 12vh;
         left: 16px;
         width: 45%;
         height: 50px;
     }
     .button_2_next {
-        bottom: 28px;
+        bottom: 12vh;
         right: 16px;
         width: 45%;
         height: 50px;
