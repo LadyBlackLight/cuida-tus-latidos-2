@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cuida-tus-latidos-2/static/css/main.1f0370e4.chunk.css",
+    "main.css": "/cuida-tus-latidos-2/static/css/main.1c4edcd7.chunk.css",
     "main.js": "/cuida-tus-latidos-2/static/js/main.3b2e2d0f.chunk.js",
     "main.js.map": "/cuida-tus-latidos-2/static/js/main.3b2e2d0f.chunk.js.map",
     "runtime-main.js": "/cuida-tus-latidos-2/static/js/runtime-main.38e80048.js",
@@ -12,7 +12,7 @@
     "static/js/3.e3e8f314.chunk.js.map": "/cuida-tus-latidos-2/static/js/3.e3e8f314.chunk.js.map",
     "index.html": "/cuida-tus-latidos-2/index.html",
     "static/css/2.71310d9f.chunk.css.map": "/cuida-tus-latidos-2/static/css/2.71310d9f.chunk.css.map",
-    "static/css/main.1f0370e4.chunk.css.map": "/cuida-tus-latidos-2/static/css/main.1f0370e4.chunk.css.map",
+    "static/css/main.1c4edcd7.chunk.css.map": "/cuida-tus-latidos-2/static/css/main.1c4edcd7.chunk.css.map",
     "static/js/2.d5cee39c.chunk.js.LICENSE.txt": "/cuida-tus-latidos-2/static/js/2.d5cee39c.chunk.js.LICENSE.txt",
     "static/media/heart.0fbd50ca.png": "/cuida-tus-latidos-2/static/media/heart.0fbd50ca.png",
     "static/media/iniciar-conteo.0defa623.png": "/cuida-tus-latidos-2/static/media/iniciar-conteo.0defa623.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.38e80048.js",
     "static/css/2.71310d9f.chunk.css",
     "static/js/2.d5cee39c.chunk.js",
-    "static/css/main.1f0370e4.chunk.css",
+    "static/css/main.1c4edcd7.chunk.css",
     "static/js/main.3b2e2d0f.chunk.js"
   ]
 }
